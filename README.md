@@ -2,7 +2,7 @@ Hi, I'm Gurleen Kaur and I'm interested in website development! Although, I'm st
 My skills include :
 - ✍️ HTML, CSS
 - I'm currently working upon Java Script
-- I would like to collaborate with any team who would allow to help me in ehancing my skills & teach me to strive better.
+* I would like to collaborate with any team who would allow to help me in ehancing my skills & teach me to strive better.
   # 📧 To reach upto me:
 - send a message on my email: gurrleenkaur0@gmail.com
 
