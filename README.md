@@ -1,5 +1,5 @@
 # Hi, I'm Gurleen Kaur
-I'm interested in website development!
+**I'm interested in website development!**
 *Although, I'm still a learner and trying to give it a more better look.*
 My skills include :
 - ✍️ HTML, CSS
