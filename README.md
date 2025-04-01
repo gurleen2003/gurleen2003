@@ -1,9 +1,8 @@
 # Hi, I'm Gurleen Kaur
-**I'm interested as java develpoer!**
-*Although, I'm still a learner and trying to give it a more better look.*
+**A passionate Software develpoer!**
 My skills include :
-- ✍️ HTML, CSS
-~ I'm currently working upon Java Script and Data structure & algorithms.
+- ✍️ Java, UI/UX, Spring
+~ I'm currently working upon Java projects and Spring boot.
 - I would like to collaborate with any team who would allow to help me in ehancing my skills & teach me to strive better.
   # 🔗 To reach upto me:
 - send a message on my email: gurrleenkaur0@gmail.com
